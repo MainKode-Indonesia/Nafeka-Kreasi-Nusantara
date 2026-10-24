@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://nafeka.my.id/sitemap.xml
